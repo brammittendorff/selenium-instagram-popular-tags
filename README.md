@@ -19,7 +19,7 @@ docker-compose up --build
 To run parallel:
 
 ```bash
-python3 parallel_run.py  -s wordlist2.txt
+python3 parallel_run.py  -s wordlist.txt
 ```
 
 Show latest 100 results sorted by tag amount
